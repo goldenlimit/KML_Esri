@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Folder>
+<Region id="avisos_170719_104400.txt">
+<LatLonAltBox>
+<north>43.12266794445607</north><south>38.78284519223293</south>
+<east>-1.5155880642188737</east><west>-8.867355082577545</west>
+<minAltitude>0</minAltitude>
+<maxAltitude>0</maxAltitude>
+<altitudeMode>clampToGround</altitudeMode>
+</LatLonAltBox>
+</Region>
+<description></description>
+<name>avisos_170719_104400.txt</name>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 17/07/2017<br><b>Hora inicio :</b> 09:00<br>
+<b>Fecha fin prevista :</b> 21/07/2017<br><b>Hora fin prevista :</b> 18:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Guadalajara-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 941<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<Point>
+<coordinates>
+-2.983459194520263,40.50366321859237,0
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 09:09<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 12:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Madrid-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 80<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-3.642459713031749,40.40322809563314,0
+-3.64228732384725,40.403837706889895,0
+-3.642016502411126,40.40401047358046,0
+-3.642459713031749,40.40322809563314,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-3.64225451314,40.40369209233,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 09:10<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 13:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Madrid-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 50<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-3.602424748723285,40.030626625032816,0
+-3.602812271785393,40.03167090233745,0
+-3.602379290805514,40.03098823913181,0
+-3.602424748723285,40.030626625032816,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-3.6025387707,40.03109525558,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 09:25<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 10:30<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Ciudad Real-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 37<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-3.8382915822840458,38.90983421758094,0
+-3.840676463396757,38.91066295833028,0
+-3.8407951360621557,38.911551788162804,0
+-3.8384757376675798,38.911115381897034,0
+-3.838221184220613,38.91098762751752,0
+-3.8382915822840458,38.90983421758094,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-3.83942203744,38.91076443125,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 09:30<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 17:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Segovia-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 59<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-4.106607753082326,40.871012223928,0
+-4.1074864352125005,40.87206216259564,0
+-4.107587628665766,40.87296444242269,0
+-4.104726157913372,40.87521159569756,0
+-4.103559220210517,40.87256841332778,0
+-4.103653821588252,40.87206223839362,0
+-4.104047033823099,40.87130827234545,0
+-4.106607753082326,40.871012223928,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-4.10548199424,40.8727575387,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Incidencia</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha detección :</b> 19/07/2017<br><b>Hora detección :</b> 09:48<br>
+<b>Fecha fin prevista :</b> <br><b>Hora fin prevista :</b> <br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Toledo-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 792<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF2E2CE8</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_rojo.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-3.659707819758839,40.10525276104534,0
+-3.672547863185126,40.10941105057065,0
+-3.66499606199488,40.10945078237543,0
+-3.6613078421993097,40.10920152409017,0
+-3.6598597057994278,40.10845262264817,0
+-3.659092768677065,40.10656516788989,0
+-3.659070297705792,40.106364383147614,0
+-3.659093108874255,40.105481949576614,0
+-3.6591519926576566,40.10532223579325,0
+-3.659707819758839,40.10525276104534,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-3.66395414597,40.10790050036,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 10:00<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 12:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Guadalajara-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 122<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-1.5690390515327857,40.77736681456277,0
+-1.5708014628417213,40.77757909197843,0
+-1.572283933911613,40.77799299482062,0
+-1.5725565009762672,40.77854586571872,0
+-1.5720178316150573,40.78045812003496,0
+-1.5718735437576266,40.780555243794964,0
+-1.5703283405562967,40.78123496031313,0
+-1.5694993432470368,40.780275764742974,0
+-1.5694284605032278,40.78018264225814,0
+-1.5690390515327857,40.77736681456277,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-1.5707299478,40.77914455094,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 10:23<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 12:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Madrid-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 135<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-3.680659192037054,40.441424356814146,0
+-3.6809523148481595,40.44170398195586,0
+-3.681228057474795,40.44196704208765,0
+-3.6813987930044436,40.442130179995914,0
+-3.6812249326631785,40.442124718184466,0
+-3.68065174950538,40.441574941216786,0
+-3.680659192037054,40.441424356814146,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-3.68098670986,40.44181307505,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 10:31<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 15:30<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Pontevedra-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 1<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<LineString>
+<coordinates>
+-8.812763655317301,42.403840915340574,0
+-8.813030255316738,42.40384486279915,0
+</coordinates>
+</LineString>
+<Point>
+<coordinates>
+-8.81289695644,42.40384289327,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 10:35<br>
+<b>Fecha fin prevista :</b> 19/07/2017<br><b>Hora fin prevista :</b> 13:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Lugo-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 14<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-7.801280225611333,43.01392659335279,0
+-7.805144746859652,43.017569068939544,0
+-7.801921698345041,43.01950321684916,0
+-7.795441400330489,43.021291912798716,0
+-7.792957459889921,43.0196915002658,0
+-7.801280225611333,43.01392659335279,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-7.79930483261,43.01797780328,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Incidencia</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha detección :</b> 19/07/2017<br><b>Hora detección :</b> 10:39<br>
+<b>Fecha fin prevista :</b> <br><b>Hora fin prevista :</b> <br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Lugo-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 2<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF2E2CE8</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_rojo.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-7.777524600831752,43.031241169391734,0
+-7.786963929621973,43.032059759887154,0
+-7.777384626446555,43.03163904113593,0
+-7.777524600831752,43.031241169391734,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-7.78062438535,43.03164665677,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 10:28<br>
+<b>Fecha fin :</b> 19/07/2017<br><b>Hora fin :</b> 10:39<br>
+<b>Estado :</b> Restablecido<br>
+<!--Provincia : Pontevedra-->
+<!--Duración : 00000010-->
+<b>Clientes afectados :</b> 25<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF0B7007</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_verde.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-7.963655124886067,42.72226330710294,0
+-7.961881686892118,42.72375123863561,0
+-7.948518621032934,42.727405383268824,0
+-7.960423626342517,42.72315635345912,0
+-7.963655124886067,42.72226330710294,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-7.95792720482,42.72443607091,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+<Placemark>
+<name>Trabajo planificado</name>
+<description><![CDATA[<div style="font-size: 12px;"><font face="Arial" color="004165">
+<b>Fecha inicio :</b> 19/07/2017<br><b>Hora inicio :</b> 07:21<br>
+<b>Fecha fin prevista :</b> 20/07/2017<br><b>Hora fin prevista :</b> 20:00<br>
+<b>Estado :</b> En resolución<br>
+<!--Provincia : Ourense-->
+<!--Duración : -->
+<b>Clientes afectados :</b> 64<br>
+</font></div>]]></description>
+<Style>
+<LineStyle><color>FF654100</color><width>3</width></LineStyle>
+<PolyStyle><color>33333333</color></PolyStyle>
+<IconStyle><Icon><href>http://www.unionfenosadistribucion.com/servlet/images/icono_naranja.png</href></Icon></IconStyle>
+</Style>
+<MultiGeometry>
+<Polygon>
+<outerBoundaryIs><LinearRing>
+<coordinates>
+-7.021361076558654,42.28542754820592,0
+-7.038380891993544,42.329544014837474,0
+-7.024845927361299,42.31706498062249,0
+-7.0060744397103,42.29820642769642,0
+-7.021361076558654,42.28542754820592,0
+</coordinates>
+</LinearRing></outerBoundaryIs>
+</Polygon>
+<Point>
+<coordinates>
+-7.02196552466,42.30463525648,0
+</coordinates>
+</Point>
+</MultiGeometry>
+</Placemark>
+</Folder>
+</Document></kml>
